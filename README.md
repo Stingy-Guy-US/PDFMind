@@ -18,14 +18,14 @@ Upload a stack of PDFs, ask questions, get answers. Uses LangChain + Vector Stor
 ---
 
 ## ⚙️ Start
+
+```
 git clone https://github.com/Stingy-Guy-US/PDFMind.git
 cd PDFMind
 pip install -r requirements.txt
 streamlit run app.py
----
-
+```
 ## 📚 PDFMind – Output Preview
-
 ```shell
 PDFMind/
 ├── app/
